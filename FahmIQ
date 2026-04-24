@@ -1,0 +1,13 @@
+Privacy Policy: FahmIQ
+1. Our "Privacy by Design" Commitment
+We believe your data belongs to you. Our app is built with Local AI technology, meaning all artificial intelligence processing—including text generation, image analysis, and data indexing—happens entirely on your device. We do not use cloud-based AI servers to process your personal content.
+2. Data Collection and Processing
+User Input/Prompts: Any text, files, or data you provide to the AI are processed locally on your iPhone or iPad using on-device machine learning frameworks (such as CoreML).
+No Server-Side Storage: We do not collect, upload, or store your prompts, AI outputs, or private data on our servers.
+Model Training: We do not use your data to train our foundational models. Because processing is local, your data is never accessible to us for model improvement.
+3. Permissions and Access
+The app may request access to [e.g., Photos, Files, or Microphone]. These permissions are strictly used to allow the local AI to process that specific content. You can revoke these permissions at any time in your iOS Settings > Privacy & Security.
+4. Third-Party Services
+This app does not share your personal data with third-party AI providers (such as OpenAI or Google). If we ever introduce cloud-based features, we will provide a clear disclosure and require your explicit "Opt-In" consent before any data is transmitted.
+5. Data Retention and Deletion
+Because we do not collect your data, we do not "retain" it on our infrastructure. Any data stored within the app (such as chat history) remains in your device's local storage and is deleted if you uninstall the app or use the "Clear Data" feature in settings.
